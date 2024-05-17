@@ -30,6 +30,6 @@ class MyApp(MDApp):
                 # print("QR: " , symbol.data.decode())
                 # webbrowser.open(symbol.data.decode())
 
-
+# fgmnfhmhmgh
 if __name__ == "__main__":
     MyApp().run()
